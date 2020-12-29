@@ -1,0 +1,1243 @@
+.vse {
+position: fixed; 
+width: 340px;
+height: 33px; 
+left: 120px; 
+top: 123px; 
+font-family: sans-serif; 
+font-style: normal; 
+font-size: 27px;
+font-weight: normal;
+letter-spacing: 0.07em;
+vertical-align: middle;
+color: white; 
+text-align: center; 
+padding: 15px 15px; 
+background: black;
+border: 1.5px solid black;
+border-radius: 30px;
+box-shadow: 0px 0px 10px 1px white;
+z-index: 1;
+transition: 0.25s;
+
+}
+.vse:hover {
+	width: 380px;
+	left: 100px;
+	top: 115px;
+	height: 30px;
+	padding: 24px 15px;
+	color: black;
+	font-weight: bold;
+	letter-spacing: 0.2em;
+	border-radius: 40px;
+	background: white;
+	border: 1.5px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 10px 1px black;
+	z-index: 1;
+}
+
+
+.konst {
+position: fixed; 
+width: 340px;
+height: 33px; 
+left: 615px; 
+top: 123px; 
+font-family: sans-serif; 
+font-style: normal; 
+font-size: 27px;
+font-weight: normal;
+letter-spacing: 0.07em;
+vertical-align: middle;
+color: white; 
+text-align: center; 
+padding: 15px 15px; 
+background: black;
+border: 1.5px solid black;
+border-radius: 30px;
+box-shadow: 0px 0px 10px 1px white;
+z-index: 1;
+transition: 0.25s;
+
+}
+.konst:hover {
+	width: 380px;
+	left: 595px;
+	top: 115px;
+	height: 30px;
+	padding: 24px 15px;
+	color: black;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	border-radius: 40px;
+	background: white;
+	border: 1.5px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 10px 1px black;
+	z-index: 1;
+}
+
+
+.kat {
+position: fixed; 
+width: 350px;
+height: 33px; 
+right: 115px; 
+top: 121px; 
+font-family: sans-serif; 
+font-style: normal; 
+font-size: 27px;
+font-weight: bold;
+letter-spacing: 0.05em;
+vertical-align: middle;
+color: black; 
+text-align: center; 
+padding: 17px 15px; 
+background: white;
+border: 1.5px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 1px black;
+z-index: 1;
+transition: 0.25s;
+
+}
+.kat:hover {
+	width: 380px;
+	right: 100px;
+	top: 115px;
+	height: 30px;
+	padding: 24px 15px;
+	color: black;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+	border-radius: 40px;
+	background: white;
+	border: 1.5px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 10px 1px black;
+	z-index: 1;
+	
+}
+
+
+.iconka1 {
+position: fixed;
+width: 70px; 
+height: 70px; 
+left: 60px; 
+top: 15px; 
+box-shadow: 0px 0px 7px 1px white; 
+border: 1px solid white;
+z-index: 1;
+transition: 0.25s;
+}
+
+.iconka1:hover {
+	position: fixed;
+	width: 80px; 
+	height: 80px; 
+	left: 55px; 
+	top: 10px; 
+	box-shadow: 0px 0px 15px 1px white; 
+	border: 1px solid white; 
+	z-index: 1;
+}
+
+
+
+
+
+.top {
+position: absolute;
+width: 620px;
+height: 40px;
+left: 490px;
+top: 242px;
+background: white;
+border: 1.5px solid black;
+border-radius: 30px;
+box-shadow: 0px 0px 10px 1px black;
+z-index: 1;
+transition: 0.25s;
+}
+
+.top:hover {
+	position: absolute;
+	width: 630px;
+	height: 45px;
+	left: 485px;
+	top: 240px;
+	background: white;
+	border: 1.5px solid black;
+	border-radius: 30px;
+	box-shadow: 0px 0px 15px 1px black;
+	z-index: 1;
+}
+
+.toptext {
+position: absolute;
+width: 350px;
+height: 30px;
+left: 135px;
+top: 6px;
+letter-spacing: 0.1em; 
+font-style: normal;
+font-size: 27px;
+font-weight: bold;
+font-family: sans-serif;
+color: black;
+z-index: 1;
+transition: 0.25s;
+}
+
+.top:hover .toptext {
+	position: absolute;
+	width: 350px;
+	height: 40px;
+	top: 6px;
+	left: 132.5px;
+	letter-spacing: 0.15em; 
+	font-style: normal;
+	font-size: 27px;
+	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+	z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.li1img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 155px;
+top: 310px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li1img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 150px;
+	top: 305px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li1background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li1img:hover .li1background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li1text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li1img:hover .li1text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+.li2img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 435px;
+top: 310px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li2img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 430px;
+	top: 305px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li2background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li2img:hover .li2background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li2text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li2img:hover .li2text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+.li3img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 715px;
+top: 310px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li3img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 710px;
+	top: 305px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li3background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li3img:hover .li3background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li3text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li3img:hover .li3text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+.li4img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 995px;
+top: 310px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li4img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 990px;
+	top: 305px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li4background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li4img:hover .li4background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li4text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li4img:hover .li4text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+.li5img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 1275px;
+top: 310px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li5img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 1270px;
+	top: 305px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li5background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li5img:hover .li5background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li5text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li5img:hover .li5text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+.li6img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 155px;
+top: 520px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li6img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 150px;
+	top: 515px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li6background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li6img:hover .li6background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li6text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li6img:hover .li6text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+.li7img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 435px;
+top: 520px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li7img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 430px;
+	top: 515px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li7background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li7img:hover .li7background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li7text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li7img:hover .li7text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+.li8img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 715px;
+top: 520px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li8img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 710px;
+	top: 515px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li8background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li8img:hover .li8background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li8text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li8img:hover .li8text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+.li9img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 995px;
+top: 520px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li9img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 990px;
+	top: 515px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li9background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li9img:hover .li9background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li9text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li9img:hover .li9text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+.li10img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 1275px;
+top: 520px;
+border: 3px solid black;
+background: url('stick.jpg');
+background-size: 170px 170px;
+border: 3px solid black;
+border-radius: 40px;
+box-shadow: 0px 0px 10px 0px black;
+transition: 0.25s;
+}
+
+.li10img:hover {
+	position: absolute;
+	width: 180px;
+	height: 180px;
+	left: 1270px;
+	top: 515px;
+	border: 3px solid black;
+	background: url('stick.jpg');
+	background-size: 170px 170px;
+	border: 3px solid black;
+	border-radius: 40px;
+	box-shadow: 0px 0px 15px 0px black;
+}
+
+
+
+.li10background {
+position: absolute;
+width: 170px;
+height: 170px;
+left: -1px;
+top: -1px;
+background-color: rgba(0, 0, 0, 0.5);
+border-radius: 40px;
+opacity: 0.01;
+transition: 0.25s;
+
+}
+
+
+.li10img:hover .li10background {
+	position: absolute;
+	width: 182px;
+	height: 182px;
+	left: -1px;
+	top: -1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 40px;
+	opacity: 1;
+
+}
+
+
+
+.li10text {
+position: absolute;
+top: 150px;
+left: 25px;
+font-size: 28px;
+font-family: sans-serif;
+color: white;
+opacity: 0.01;
+transition: 0.25s;
+}
+
+.li10img:hover .li10text {
+	position: absolute;
+	top: 70px;
+	left: 25px;
+	font-size: 28px;
+	font-family: sans-serif;
+	color: white;
+	opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.soc {
+position: fixed;
+width: 290px;
+height: 20px;
+left: 60px; 
+bottom: 12px;
+padding: 5px 0px 5px 0px; 
+font-family: sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 19px; 
+text-align: center;
+letter-spacing: 0.2em;
+color: white;
+border: 2px solid white;
+border-radius: 10px;
+box-shadow: 0px 0px 5px 1px white; 
+z-index: 1;
+transition: 0.5s;
+}
+
+.soc:hover {
+	position: fixed;
+	width: 290px;
+	height: 20px;
+	left: 60px; 
+	bottom: 12px;
+	padding: 5px 210px 5px 10px; 
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 19px; 
+	text-align: center;
+	letter-spacing: 0.25em;
+	color: white;
+	border: 2px solid white;
+	border-radius: 10px;
+	box-shadow: 0px 0px 15px 1px white; 
+	z-index: 1;
+}
+
+
+.instagram {
+position: fixed;
+width: 24px;
+height: 24px;
+left: 345px;
+bottom: 16px;
+opacity: 0;
+transition: 0.5s;
+
+}
+.soc:hover .instagram{ 
+	position: fixed;
+	width: 24px;
+	height: 24px;
+	left: 375px;
+	bottom: 16px;
+	opacity: 1;
+}
+
+
+.telegram {
+position: fixed;
+width: 24px;
+height: 24px;
+left: 345px;
+bottom: 16px;
+opacity: 0;
+transition: 0.5s;
+
+}
+.soc:hover .telegram {
+	position: fixed;
+	width: 24px;
+	height: 24px;
+	left: 415px;
+	bottom: 16px;
+	opacity: 1;
+}
+
+
+.vk {
+position: fixed;
+width: 24px;
+height: 24px;
+left: 345px;
+bottom: 16px;
+opacity: 0;
+transition: 0.5s;
+
+}
+.soc:hover .vk {
+	position: fixed;
+	width: 24px;
+	height: 24px;
+	left: 455px;
+	bottom: 16px;
+	opacity: 1;
+}
+
+
+.whatsapp {
+position: fixed;
+width: 24px;
+height: 24px;
+left: 345px;
+bottom: 16px;
+opacity: 0;
+transition: 0.5s;
+
+}
+.soc:hover .whatsapp {
+	position: fixed;
+	width: 24px;
+	height: 24px;
+	left: 495px;
+	bottom: 16px;
+	opacity: 1;
+}
+
+
+.facebook {
+position: fixed;
+width: 24px;
+height: 24px;
+left: 345px;
+bottom: 16px;
+opacity: 0;
+transition: 0.5s;
+
+}
+.soc:hover .facebook {
+	position: fixed;
+	width: 24px;
+	height: 24px;
+	left: 535px;
+	bottom: 16px;
+	opacity: 1;
+}
